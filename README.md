@@ -71,4 +71,3 @@ Untuk penelitian lebih lanjut, disarankan untuk menggunakan teknik **balancing d
 3. **Feature Importance**:  
    Diagram batang yang menunjukkan fitur-fitur paling berpengaruh dalam klasifikasi.
 
-## 📄 Tampilan Sederhana (Layout Poster)
